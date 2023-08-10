@@ -3,6 +3,7 @@
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - 🤔 &nbsp; I love Python and enjoy when coding with python.
+- 💪🏻 &nbsp; 1st place in the National Information Technology Olympiad.
 - 🎓 &nbsp; Bachelor's degree in network.
 - 💼 &nbsp; I like Remote works and Automate tasks.
 - 🌱 &nbsp; Learning python to be expert more!
