@@ -1,61 +1,66 @@
-### 👋 Hi, I'm  Reza, and welcome to my GitHub bio.
+<h1 align="center">Reza Hashemian</h1>
 
-<h3>👨‍💻 &nbsp; About Me</h3>
+<p align="center">
+  M.Sc. student in Artificial Intelligence · Python developer · Isfahan, Iran
+</p>
 
-- 🤔 &nbsp; I love Python and enjoy when coding with python.
-- 💪🏻 &nbsp; 1st place in the National Information Technology Olympiad.
-- 🎓 &nbsp; Bachelor's degree in network.
-- 💼 &nbsp; I like Remote works and Automate tasks.
-- 🌱 &nbsp; Learning python to be expert more!
+<p align="center">
+  <a href="https://www.linkedin.com/in/rezahashemian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@learnbytes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://t.me/official_learn_bytes"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/learn_bytes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://gitlab.com/reza-hashemian"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+</p>
 
-***
+## About
 
-<h2>🔧 &nbsp; Tech Stack</h2>
+I build developer tools and cross-platform desktop apps, mostly in Python, with Rust and Dart where they fit better. I am currently studying for a master's degree in Artificial Intelligence, after a bachelor's in computer networks.
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🛢 &nbsp;
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
-  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
+- 🎓 M.Sc. student in Artificial Intelligence
+- 🏆 1st place, National Information Technology Olympiad
+- 🛠️ Interested in automation, open-source tooling and applied machine learning
+- 🎥 I teach programming on [Learn Bytes](https://www.youtube.com/@learnbytes)
 
-***
+## Projects
 
-## ⚡️ &nbsp; Github Stats
-<div align="center">
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [tondar](https://github.com/reza-hashemian/tondar) | Download manager for Windows, macOS and Linux: multi-connection resumable downloads, video and playlist downloads, a scheduler and a browser extension | Python |
+| [dastbedast](https://github.com/reza-hashemian/dastbedast) | Cross-device file transfer for Windows, Linux and Android. Pair once, no server | Rust |
+| [varagh](https://github.com/reza-hashemian/varagh) | Cross-platform PDF and EPUB reader with highlights, notes, notebooks and Trello-style tasks | Dart |
+| [amvault](https://github.com/reza-hashemian/amvault) | Offline password and SSH key vault in KeePass format, with a desktop GUI, a CLI and temporary ssh-agent loading | Python |
+| [eyecare-theme](https://github.com/reza-hashemian/eyecare-theme) | Eye-comfort color themes applied across terminals and editors at once, ranked by measured WCAG contrast | Python |
+| [shellter](https://github.com/reza-hashemian/shellter) | One-script zsh setup that restores the same shell on any fresh machine | Shell |
+| [uni_ai](https://github.com/reza-hashemian/uni_ai) | Notebooks and notes from my AI master's coursework | Jupyter |
 
-<a href="https://github.com/reza-hashemian"><img src="https://github-readme-stats.vercel.app/api?username=reza-hashemian&show_icons=true&theme=transparent"></a>
-<a href="https://github.com/reza-hashemian"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hashemian&theme=transparent"></a>
+## Tech stack
 
-</div>
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
+**Backend and data**
 
-***
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+**Infrastructure and tools**
 
-# Where can you find me:
-<div align='center' >
-<a href="https://www.youtube.com/@learnbytes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://t.me/official_learn_bytes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://gitlab.com/reza-hashemian"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-<a href="https://instagram.com/learn_bytes?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rezahashemian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
+## GitHub stats
 
+<p align="center">
+  <a href="https://github.com/reza-hashemian"><img height="165" src="https://github-readme-stats.vercel.app/api?username=reza-hashemian&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" /></a>
+  <a href="https://github.com/reza-hashemian"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza-hashemian&layout=compact&theme=transparent&hide_border=true" alt="Top languages" /></a>
+</p>
