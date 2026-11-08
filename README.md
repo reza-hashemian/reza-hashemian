@@ -21,7 +21,8 @@ money that always balances, and data models built for billions of rows.
 
 ## About
 
-I am a backend engineer based in Isfahan, Iran. Django is my primary framework; around it I build
+I am a backend engineer based in Isfahan, Iran. I lead the backend at Noqrina, where Django is
+my primary framework; around it I build
 distributed systems with message queues, search engines and caching layers, and in my own time I
 write desktop tools in Python, Rust and Dart.
 
@@ -29,13 +30,13 @@ write desktop tools in Python, Rust and Dart.
 - 🏆 1st place, National Information Technology Olympiad
 - 🎥 Teaching programming on [Learn Bytes](https://www.youtube.com/@learnbytes)
 
-## Featured work
+## Experience
 
-### Noqrina — commerce & ERP platform &nbsp;<sub><code>private</code></sub>
+### Lead Backend Engineer at Noqrina
 
-A multi-seller commerce platform that grew into a full business suite: online marketplace,
-in-store point of sale, settlement, double-entry accounting, CRM, HR and manufacturing — one
-codebase, run as independent services.
+I lead the backend of Noqrina's multi-seller commerce platform and own its architecture and
+technical design. The platform covers an online marketplace, in-store point of sale, settlement,
+double-entry accounting, CRM, HR and manufacturing — one codebase, run as independent services.
 
 | | |
 | --- | --- |
